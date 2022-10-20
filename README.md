@@ -1,4 +1,4 @@
-# 갓생 살기 프로젝트
+# WoodyPef's repo
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kacaw00d)](https://solved.ac/kacaw00d)<br/>
 BaekJoon Tear
