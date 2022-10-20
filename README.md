@@ -2,7 +2,7 @@
 
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
 
-BaekJoon Tear <
+BaekJoon Tear <br/>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kacaw00d)](https://solved.ac/kacaw00d)<br/>
 
 
