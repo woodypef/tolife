@@ -1,4 +1,9 @@
-# SSAFY 갓생 살기 프로젝트
+# 갓생 살기 프로젝트
+BaekJoon Tear
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kacaw00d)](https://solved.ac/kacaw00d)<br/>
+출처: https://yoon990.tistory.com/38 [개발저장소:티스토리]
+
+## SSAFY
 ### FrontEnd 지원 예정
 ### FrontEnd 언어? -> Java (.js포함임)
 
@@ -16,5 +21,4 @@
 ### 22-10-20 Solved : 
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kacaw00d)](https://solved.ac/kacaw00d)<br/>
-출처: https://yoon990.tistory.com/38 [개발저장소:티스토리]
+
