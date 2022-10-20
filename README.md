@@ -3,7 +3,7 @@
 
 
 BaekJoon Tear <br/>
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kacaw00d)](https://solved.ac/kacaw00d)
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
 
