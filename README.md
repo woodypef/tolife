@@ -16,4 +16,5 @@
 ### 22-10-20 Solved : 
 
 
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kacaw00d)](https://solved.ac/kacaw00d)<br/>
+출처: https://yoon990.tistory.com/38 [개발저장소:티스토리]
