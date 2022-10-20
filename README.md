@@ -1,8 +1,11 @@
 # WoodyPef's repo
 
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
+
+BaekJoon Tear <
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kacaw00d)](https://solved.ac/kacaw00d)<br/>
-BaekJoon Tear
-출처: https://yoon990.tistory.com/38 [개발저장소:티스토리]
+
+
 
 ## SSAFY
 ### FrontEnd 지원 예정
@@ -22,4 +25,8 @@ BaekJoon Tear
 ### 22-10-20 Solved : 
 
 
+ReadMe 꾸미기
+출처: https://yoon990.tistory.com/38 [개발저장소:티스토리]
 
+BaekJoon Tear 표시
+출처: https://yoon990.tistory.com/38 [개발저장소:티스토리]
