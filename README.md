@@ -3,8 +3,10 @@
 
 BaekJoon Tear <br/>
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kacaw00d)](https://solved.ac/kacaw00d)
-
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=깃허브아이디&layout=compact)](https://github.com/깃허브아이디/github-readme-stats)
+출처: https://yoon990.tistory.com/38 [개발저장소:티스토리]
 
 ## SSAFY
 ### FrontEnd 지원 예정
