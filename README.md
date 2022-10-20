@@ -1,6 +1,5 @@
-# WoodyPef's repo
-[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=kacaw00d)](https://solved.ac/kacaw00d)<br/>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kacaw00d)](https://solved.ac/kacaw00d)<br/>
+# WoodyPef's repo [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=kacaw00d)](https://solved.ac/kacaw00d)<br/>
+
 
 BaekJoon Tear <br/>
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kacaw00d)](https://solved.ac/kacaw00d)
