@@ -1,6 +1,7 @@
 # 갓생 살기 프로젝트
-BaekJoon Tear
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kacaw00d)](https://solved.ac/kacaw00d)<br/>
+BaekJoon Tear
 출처: https://yoon990.tistory.com/38 [개발저장소:티스토리]
 
 ## SSAFY
