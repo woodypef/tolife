@@ -1,5 +1,7 @@
 # WoodyPef's repo [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=kacaw00d)](https://solved.ac/kacaw00d)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woodypef&layout=compact)](https://github.com/woodypef/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=woodypef&show_icons=true&theme=radical)
+
 
 ##BaekJoon Tear <br/>
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kacaw00d)](https://solved.ac/kacaw00d) 
@@ -29,8 +31,3 @@
 ReadMe 꾸미기
 출처: https://yoon990.tistory.com/38 [개발저장소:티스토리]
 
-BaekJoon Tear 표시
-출처: https://yoon990.tistory.com/38 [개발저장소:티스토리]
-
-주 개발 언어 표시
-출처: https://yoon990.tistory.com/38 [개발저장소:티스토리]
