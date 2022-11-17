@@ -11,7 +11,6 @@ for test_case in range(1,T+1) :
     data = []
     for i in range(100) :
         data.append(list(map(int,input().split())))
-    print(data)
 
     for i in range(100) :
         sum_row = 0

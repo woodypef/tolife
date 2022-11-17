@@ -1,25 +1,32 @@
-T = int(input())
+n = int(input())
 
-def fill(data,row,column,num) :
-    for i in range(num) :
-        data[row][i] = 1
-        data[i][column] = 1
-    for j in range(num-max(row,column)) :
-        data[row+j][column+j] = 1
-    return data
+ans = 0
+row = [0] * n
 
-for test_case in range(1,T+1) :
-    result = 0
-    count = 0
-    num = int(input())
-    data = [[0 for column in range(num)] for row in range(num)]
-    check_list = []
-    for row in range(num) :
-        for column in range(num) :
-            if(data[column][row]==0) :
-                fill(data,row,column,num)
-                check_list.append([row,column])
-                count+=1
-                print(data, row, column,count)
-    count = result
-print("#{} {}".format(test_case,result))
+
+#대각선과 행,열 중복인지 찾아줌
+def is_promising(x):
+    for i in range(x):
+        if row[x] == row[i] or abs(row[x] - row[i]) == abs(x - i):
+            return False
+    return True
+
+
+#queen을 두는 함수
+def n_queens(x):
+    global ans
+    if x == n:
+        ans += 1
+        return
+
+    else:
+        for i in range(n):
+            # [x, i]에 퀸을 놓겠다.
+            row[x] = i
+            #행,열,대각선 체크함수가 true이면 백트래킹 안하고 진행함
+            if is_promising(x):
+                n_queens(x + 1)
+
+
+n_queens(0)
+print(ans)
